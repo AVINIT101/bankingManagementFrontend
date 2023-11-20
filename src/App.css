@@ -1,0 +1,18 @@
+/* App.css */
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.app-container {
+  height: 100vh; /* 100% of the viewport height */
+  background-image: url('banking.jpg'); /* Replace 'banking.JPG' with your image file path */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff; /* Text color, change as needed */
+}
